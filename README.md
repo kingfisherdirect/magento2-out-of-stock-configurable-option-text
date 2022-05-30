@@ -8,7 +8,7 @@ Features:
 
 ## Installation
 
-`  `
+` composer require kingfisherdirect/magento2-out-of-stock-configurable-option-text `
 
 ## Usage
 
