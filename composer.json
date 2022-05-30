@@ -1,0 +1,13 @@
+{
+    "name": "kingfisherdirect/magento2-out-of-stock-configurable-option-text",
+    "description": "Adds text next to the names of the options that are out of stock for configurabe products",
+    "type": "magento2-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt",
+            "email": "m.tindall@kingfisherdirect.co.uk"
+        }
+    ],
+    "require": {}
+}
